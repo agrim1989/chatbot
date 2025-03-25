@@ -2,8 +2,8 @@
 
 ## Clone the Repository
 ```sh
-git clone https://github.com/your-repo.git  
-cd your-repo
+git clone (https://github.com/agrim1989/chatbot.git)  
+cd chatbot
 ```
 
 ## Create virtualenv
