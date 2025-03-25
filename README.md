@@ -2,7 +2,7 @@
 
 ## Clone the Repository
 ```sh
-git clone (https://github.com/agrim1989/chatbot.git)  
+git clone [https://github.com/agrim1989/chatbot.git]
 cd chatbot
 ```
 
