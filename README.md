@@ -2,7 +2,7 @@
 
 ## Clone the Repository
 ```sh
-git clone [https://github.com/agrim1989/chatbot.git]
+git clone https://github.com/agrim1989/chatbot.git
 cd chatbot
 ```
 
@@ -14,6 +14,12 @@ virtualenv venv
 ## Install Dependencies
 ```sh
 pip install -r requirements.txt  
+```
+## Create a folder named "doc". Place all your PDF or TXT files in that
+
+## Run command 
+```sh
+python indexer.py
 ```
 
 ## Run the Application
