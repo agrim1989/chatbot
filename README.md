@@ -17,6 +17,7 @@ pip install -r requirements.txt
 ```
 ## Create a folder named "doc". Place all your PDF or TXT files in that
 
+
 ## Run command 
 ```sh
 python indexer.py
